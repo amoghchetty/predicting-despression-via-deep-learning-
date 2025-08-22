@@ -33,9 +33,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/mental-health-prediction.git  
 cd mental-health-prediction  
+```
 
 pip install -r requirements.txt  
-```
 
 Project Structure
 
