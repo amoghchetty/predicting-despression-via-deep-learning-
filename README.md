@@ -26,22 +26,16 @@ Scikit-learn (for preprocessing & encoding)
 
 Pandas / NumPy (for data handling)
 
-How to Run
+## How to Run  
 
-Clone the repository:
+Clone the repository:  
 
-git clone https://github.com/your-username/mental-health-prediction.git
-cd mental-health-prediction
+```bash
+git clone https://github.com/your-username/mental-health-prediction.git  
+cd mental-health-prediction  
 
+pip install -r requirements.txt  
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the app:
-
-streamlit run app.py
 
 Project Structure
 
