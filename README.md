@@ -44,10 +44,15 @@ Run the app:
 streamlit run app.py
 
 Project Structure
+
 📂 mental-health-prediction
+
  ┣ 📜 app.py              # Main Streamlit app
+ 
  ┣ 📜 model.h5 / model.pkl # Trained model file
+ 
  ┣ 📜 requirements.txt    # Project dependencies
+ 
  ┣ 📜 README.md           # Project documentation
 
 Notes
